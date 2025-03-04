@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sammyrn
-- 👀 I’m interested in ...Web Development and Mobile App Development using dart
-- 🌱 I’m currently learning ...Dart and Flutter
-- 💞️ I’m looking to collaborate on ...dart projects
+- 👀 I’m interested in ...Web Development and Mobile App Development using React
+- 🌱 I’m currently learning ...Node.js
+- 💞️ I’m looking to collaborate on ...react projects
 - 📫 How to reach me ...kpunsamuel8@gmail.com 
 - 😄 Pronouns: ...He, Him
 - ⚡ Fun fact: ...I graduated from university in 2024
